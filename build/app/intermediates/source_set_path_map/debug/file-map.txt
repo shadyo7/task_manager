@@ -1,0 +1,14 @@
+com.example.task_manager.app-jetified-window-1.0.0-beta04-0 /Users/shahid/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.task_manager.app-jetified-window-java-1.0.0-beta04-1 /Users/shahid/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.task_manager.app-core-1.6.0-2 /Users/shahid/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.task_manager.app-jetified-annotation-experimental-1.1.0-3 /Users/shahid/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.task_manager.app-debug-4 /Users/shahid/Documents/My_Projects/task_manager/android/app/src/debug/res
+com.example.task_manager.app-main-5 /Users/shahid/Documents/My_Projects/task_manager/android/app/src/main/res
+com.example.task_manager.app-pngs-6 /Users/shahid/Documents/My_Projects/task_manager/build/app/generated/res/pngs/debug
+com.example.task_manager.app-resValues-7 /Users/shahid/Documents/My_Projects/task_manager/build/app/generated/res/resValues/debug
+com.example.task_manager.app-rs-8 /Users/shahid/Documents/My_Projects/task_manager/build/app/generated/res/rs/debug
+com.example.task_manager.app-mergeDebugResources-9 /Users/shahid/Documents/My_Projects/task_manager/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.task_manager.app-mergeDebugResources-10 /Users/shahid/Documents/My_Projects/task_manager/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.task_manager.app-merged_res-11 /Users/shahid/Documents/My_Projects/task_manager/build/app/intermediates/merged_res/debug
+com.example.task_manager.app-packaged_res-12 /Users/shahid/Documents/My_Projects/task_manager/build/path_provider_android/intermediates/packaged_res/debug
+com.example.task_manager.app-packaged_res-13 /Users/shahid/Documents/My_Projects/task_manager/build/sqflite/intermediates/packaged_res/debug
